@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.container-fluid{
+ margin: 0%;
+ padding: 0%;
+    
+}
+.jumbotron-fluid{
+    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-size: cover;
+    height:668px;
+}
+.overlay{
+    
+    height:668px;
+
+}
+.white-text-welcome, .white-text-to-delani, .white-text-desc-text{
+    text-align: center;
+    color: white;
+
+}
