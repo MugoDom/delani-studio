@@ -1,5 +1,5 @@
 body{
-    margin: 0%;
+    margin: 1%;
     padding: 0%;
 }
 .container-fluid{
@@ -20,6 +20,7 @@ body{
 }
 .overlay > img, .white-text-welcome, .white-text-desc-text, .white-text-to-delani{
     position: relative;
+    padding-top: 5%;
     
 
 }
@@ -35,4 +36,26 @@ body{
 .services {
     background-image: url("../assets/backgrounds/s_image.jpg");
     height: 300px;
+    width: 100%;
+}
+.services-overlay{
+    margin-top: 3%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.w-text{
+    padding-top: 2%;
+}
+.services-icon-design{
+    padding-left: 50%;
+}
+.dev-icon-design{
+    padding-left: 50%;
+}
+.products-icon-design{
+    padding-left: 50%;
+}
+.contact-us{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    background-size: cover;
 }
