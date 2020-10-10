@@ -43,19 +43,45 @@ body{
     padding-top: 5%;
     padding-bottom: 5%;
 }
+.what-we-do{
+    margin-bottom: 0%;
+}
 .w-text{
     padding-top: 2%;
 }
 .services-icon-design{
-    padding-left: 50%;
+    display: inline-block;
+    position: relative;
 }
 .dev-icon-design{
-    padding-left: 50%;
+    left:300px;
+    display: inline-block;
 }
 .products-icon-design{
-    padding-left: 50%;
+    display: inline-block;
 }
 .contact-us{
     background-image: url("../assets/backgrounds/c_image.jpg");
     background-size: cover;
+    height: 500px;
+    margin-top: 2%;
 }
+.contact-header{
+    padding-top: 3%;
+}
+.portfolio-row{
+    padding-left: 0%;;
+    align-items: center;
+}
+figcaption{
+    margin-top: 2%;
+}
+#caption-1-text{
+    cursor: pointer;
+}
+.project-text{
+    display: none;
+}
+
+
+  
