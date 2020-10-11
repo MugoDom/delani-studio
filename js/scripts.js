@@ -56,3 +56,10 @@ $(".img-portfolio").hover(function(){
     $(".project-text", this).toggle();
 
 });
+
+
+$(document).ready(function(){
+    $("form").submit(function(){
+        alert("Hello " + name + ", Thanks for your message! Our team will contact you shortly!");
+    });
+});

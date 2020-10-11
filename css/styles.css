@@ -70,7 +70,7 @@ body{
 .products-icon-design{
     display: inline-block;
 }
-.contact-us{
+.contact-overlay{
     background-image: url("../assets/backgrounds/c_image.jpg");
     background-size: cover;
     height: 500px;
@@ -126,10 +126,6 @@ figcaption{
         transition: .5s ease;
 }
 
-
-
-
-
 #form{
     width: 52%;
     margin-left: 25%;
@@ -142,12 +138,16 @@ textarea{
 .name{
  background-color: transparent;
  display: inline-block;
+ position: relative;
+ right: 10px;
 }
 
 .email{
     background-color: transparent;
     display: inline-block;
     vertical-align: top;
+    position: relative;
+    left: 10px;
 
 
 }
@@ -158,4 +158,6 @@ textarea{
 ::placeholder {
     color: white;
   }
-
+.form-group{
+    color: white;
+}
