@@ -10,7 +10,6 @@ body{
 .jumbotron-fluid{
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-size: cover;
-    height:668px;
 }
 .master-head{
     margin-top: 5%; 
@@ -18,7 +17,7 @@ body{
     position: absolute;
 
 }
-.overlay > img, .white-text-welcome, .white-text-desc-text, .white-text-to-delani{
+.overlay{
     position: relative;
     padding-top: 5%;
     
