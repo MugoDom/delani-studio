@@ -11,6 +11,21 @@ body{
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-size: cover;
 }
+.logo{
+    position: relative;
+    top: 190px;
+}
+.welcome{
+    position: relative;
+    top: 185px;
+}
+.text-3rd-row{
+    position: relative;
+    top: 195px;
+}
+.click{
+    margin-top: 300px;
+}
 .master-head{
     margin-top: 5%; 
     margin-left: 30%;
@@ -21,12 +36,6 @@ body{
     position: relative;
     padding-top: 5%;
     
-
-}
-.white-text-welcome, .white-text-to-delani, .white-text-desc-text{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    color: white;
 
 }
 .about-section{
@@ -43,7 +52,9 @@ body{
     padding-bottom: 5%;
 }
 .what-we-do{
+    position: relative;
     margin-bottom: 0%;
+    top: 30px;
 }
 .w-text{
     padding-top: 2%;
