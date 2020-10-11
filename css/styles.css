@@ -79,9 +79,42 @@ figcaption{
 #caption-1-text{
     cursor: pointer;
 }
-.project-text{
-    display: none;
+.img-portfolio{
+    opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+
 }
 
+#form{
+    width: 52%;
+    margin-left: 25%;
+    padding-right: 50px;
 
-  
+}
+textarea{
+    background-color: transparent;
+}
+.name{
+ background-color: transparent;
+ display: inline-block;
+}
+
+.email{
+    background-color: transparent;
+    display: inline-block;
+    vertical-align: top;
+
+
+}
+.form-input{
+    background-color: transparent;
+    width:100%;
+}
+::placeholder {
+    color: white;
+  }
+
