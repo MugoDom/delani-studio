@@ -49,8 +49,10 @@ $("#caption-3-text, #caption-3").on("click", function(){
     
 });
 //create hover effect on portfolio images
+
 $(".img-portfolio").hover(function(){
     $(".project-text", this).toggle();
 }, function(){
     $(".project-text", this).toggle();
+
 });
