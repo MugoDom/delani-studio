@@ -27,7 +27,8 @@ Created on 12th October 2020
 * JQuery
 
 ## Bugs.
-Page doesn't return to home page after Mail Chimp Subscription
+Page doesn't return to home page after Mail Chimp Subscription.
+Text spills over DIV on the phone screen.
 
 ## License
 >MIT LICENSE &copy; 2020 Dominic
