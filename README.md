@@ -27,7 +27,7 @@ Created on 12th October 2020
 * JQuery
 
 ## Bugs.
-No known bugs at the moment.
+Page doesn't return to home page after Mail Chimp Subscription
 
 ## License
 >MIT LICENSE &copy; 2020 Dominic
